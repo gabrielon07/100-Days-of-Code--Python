@@ -8,7 +8,7 @@ nr_letters = int(input("How many letter would you like in you password? "))
 nr_symbols = int(input("How many symbols would you like? "))
 nr_numbers = int(input("How many numbers would you like? "))
 
-#Eazy Level:
+#Eazy Level
 ''' password = ""
 for char in range (1, nr_letters + 1):
     password += random.choice(letters)
